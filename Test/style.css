@@ -1,0 +1,113 @@
+.container { 
+    text-align: center;
+    width:  1000px;
+    margin: auto;
+}
+.logo { 
+        width: 200px;
+        margin-bottom: 10px;
+        
+        
+}
+.logo-text {
+    font-size:  40px;
+    margin-bottom: 10px;
+    
+}
+
+.riga
+{ 
+    
+   background-color: rgb(33, 241, 14);
+   height: 70px;
+
+
+
+}
+.box1{  
+    
+    display: inline; /* the default for span */
+    margin-right: 5px;
+    padding: 1px ;
+    border: 1px solid black;
+    background-color: white;
+  
+      
+    
+}
+
+
+.box2{
+    display: inline; /* the default for span */
+    margin-right: 5px;
+    padding: 1px;
+    border: 1px solid black;
+    background-color: white;
+  
+}
+
+.box3{
+    display: inline; /* the default for span */
+    margin-right: 5x;
+    padding: 1px;
+    border: 1px solid black;
+    background-color: white;
+  
+}
+
+.back {
+    background-size: 1400px 850px;
+    
+}
+
+.quadrato {
+  list-style-type: square;
+  margin-left: 160px;
+  color: white;
+
+}
+
+.Monopattino { 
+   list-style-type: square;
+  margin-left: 10px;
+  color: white;
+}
+
+.via {
+  color: white;
+  margin-left: 10px;
+}
+
+.stato{
+  color: white;
+  margin-left: 10px;
+}
+
+.riga2 {
+  background-color: rgb(212, 151, 38);
+  height: 40px; 
+  margin-left: 200px;
+  margin-right: 700px;
+}
+
+.riga3 {
+  background-color: rgb(66, 184, 11);
+  height: 40px; 
+  margin-left: 200px;
+  margin-right: 300px;
+}
+
+.riga4 {
+  background-color: rgb(199, 13, 28);
+  height: 40px; 
+  margin-left: 200px;
+  margin-right: 900px;
+}
+
+.sfondo {
+  background-color: black;
+  height: 850px;
+  width: 1000px;
+  margin-top: -850px;
+  opacity: 20%;
+}
